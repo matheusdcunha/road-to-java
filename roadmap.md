@@ -4,7 +4,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 ## 1ª Etapa
 
-[ ] Concluído  
+- [ ] Concluído  
 **Data de Conclusão**: --
 
 - Assistir até a aula 95 do curso [Maratona Java](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
@@ -12,7 +12,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 ## 2ª Etapa
 
-[ ] Concluído  
+- [ ] Concluído  
 **Data de Conclusão**: --
 
 - Assistir até a aula 143 do curso [Maratona Java](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
@@ -20,14 +20,14 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 ## 3ª Etapa
 
-[ ] Concluído  
+- [ ] Concluído  
 **Data de Conclusão**: --
 
 - Assistir da aula 159 até a aula 217 do curso [Maratona Java](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
 
 ## 4ª Etapa
 
-[ ] Concluído  
+- [ ] Concluído  
 **Data de Conclusão**: --
 
 *** O [Curso SQL | Téo Me Why](https://www.youtube.com/playlist?list=PLvlkVRRKOYFRo651oD0JptVqfQGDvMi3j) é para ir assistindo junto com as etapas seguintes, ele é um complemento que vai ter dar uma base muito sólida, porém com o [Curso Completo de SQL](https://www.youtube.com/watch?v=G7bMwefn8RQ) já é o suficiente para progredir no roadmap.
@@ -38,7 +38,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 ## 5ª Etapa
 
-[ ] Concluído  
+- [ ] Concluído  
 **Data de Conclusão**: --
 
 - Ler artigo: [Introdução ao Maven, aprenda como criar e gerenciar projetos Java](https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java).
@@ -47,7 +47,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 ## 6ª Etapa
 
-[ ] Concluído  
+- [ ] Concluído  
 **Data de Conclusão**: --
 
 - Ler artigo: [O que é o spring framework](https://www.treinaweb.com.br/blog/o-que-e-spring-framework).
@@ -56,7 +56,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 ## 7ª Etapa (Opcional)
 
-[ ] Concluído  
+- [ ] Concluído  
 **Data de Conclusão**: --
 
 - **SOLID**: [O que é SOLID](https://medium.com/desenvolvendo-com-paixao/o-que-é-solid-o-guia-completo-para-você-entender-os-5-princípios-da-poo-2b937b3fc530 ) | [Dominando os princípios do SOLID](https://www.youtube.com/watch?v=ZYCABdRwRNk)
