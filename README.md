@@ -1,5 +1,7 @@
 # Road to Java
 
+![Java Logo](java-logo.png)
+
 Esse é o repositório contendo a documentação dos meus estudos no aprendizado de Java.
 
 Tenho como base o [Guia de Java do 0 ao JR](https://docs.google.com/document/d/12ek1Wsd_ibuwTOjHtLPZwEWdy5-A7cRoO2Bf-v5G1_s/edit?tab=t.0) do [Lucas Carrilho | Dev Magro](https://github.com/karilho)
