@@ -2,7 +2,7 @@
 
 Esse diretório contem todos os arquivos Java do curso Maratona Java do DevDojo.
 
-Estou na aula: [02 - Como Java Funciona](https://youtu.be/JasmdiTyduI?si=Xr3ZyqW8S5uaAOCL)
+Estou na aula: [03 - Fazendo o download da JDK 15](https://youtu.be/Tsyeybeh968?si=QkwCldurpgGPw8UE)
 
 No dia: 08/09/2025
 
