@@ -15,7 +15,7 @@ public class Operadores {
         int modulo = numero2 & numero1; // 0
 
         // Operadores Relacionais
-        boolean isMenor = 10 < 20; // true
+        boolean isMenor = 10 < 20  ; // true
         boolean isMaior = 20 > 10; //true
         boolean isMenorIgual = 20 <= 20; // true
         boolean isMaiorIgual = 10 >= 20;// false
