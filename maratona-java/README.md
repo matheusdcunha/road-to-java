@@ -2,7 +2,7 @@
 
 Esse diretório contem todos os arquivos Java do curso Maratona Java do DevDojo.
 
-Estou na aula: [39 - Orientação Objetos pt 01 - Introdução classes pt 01](https://www.youtube.com/watch?v=EyuPFLuvD7Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=40)
+Estou na aula: [60 - Orientação Objetos - Blocos de inicialização](https://www.youtube.com/watch?v=HGB02nLvgKU&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=61)
 
 No dia: 13/09/2025
 
