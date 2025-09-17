@@ -1,4 +1,4 @@
-package dev.matheusdcunha.javacore.introducaoclasses.dominio;
+package dev.matheusdcunha.javacore.introducaoClasses.dominio;
 
 public class Pessoa {
     private String nome;

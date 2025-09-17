@@ -1,6 +1,6 @@
-package dev.matheusdcunha.javacore.introducaoclasses.test;
+package dev.matheusdcunha.javacore.introducaoClasses.test;
 
-import dev.matheusdcunha.javacore.introducaoclasses.dominio.Pessoa;
+import dev.matheusdcunha.javacore.introducaoClasses.dominio.Pessoa;
 
 public class PessoaTest01 {
     public static void main(String[] args) {
