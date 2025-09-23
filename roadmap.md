@@ -8,6 +8,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 **Data de Conclusão**: 22/09/2025
 
 - Assistir até a aula 95 do curso [Maratona Java](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
+- Assisitr nível iniciantes do [Batismo de Java](https://batismodejava.dev/).
 - Fazer [lista de exercícios](./exercicios/lista.md).
 
 ## 2ª Etapa
@@ -15,6 +16,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 - [ ] Concluído  
 **Data de Conclusão**: --
 
+- Assisitir nível intermediário do [Batismo de Java](https://batismodejava.dev/).
 - Assistir até a aula 143 do curso [Maratona Java](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
 - Fazer o [Desafio - Sistemas de Cadastros](https://github.com/karilho/desafioCadastro).
 
@@ -43,6 +45,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 - Ler artigo: [Introdução ao Maven, aprenda como criar e gerenciar projetos Java](https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java).
 - Assistir vídeo: [Como criar um projeto Maven do zero no IntelliJ](https://www.youtube.com/watch?v=L07vZihvviA).
+- Assistir nível avançado do [Batismo de Java](https://batismodejava.dev/).
 - Assistir da aula 246 até a aula 285 do curso [Maratona Java](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
 
 ## 6ª Etapa
@@ -52,6 +55,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 - Ler artigo: [O que é o spring framework](https://www.treinaweb.com.br/blog/o-que-e-spring-framework).
 - Assistir o curso [CURSO GRATIS SPRING BOOT PARA INICIANTES ☕👩🏻‍💻 | 2025](https://www.youtube.com/watch?v=SqU9v_V32RA).
+- Assisitr a introdução ao Spring Boot do [Batismo de Java](https://batismodejava.dev/).
 - Refazer o [Desafio - Sistemas de Cadastros](https://github.com/karilho/desafioCadastro) utilizando Spring e através de uma API com todos seus padrões.
 
 ## 7ª Etapa (Opcional)
