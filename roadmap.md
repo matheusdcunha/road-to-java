@@ -4,8 +4,8 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 ## 1ª Etapa
 
-- [ ] Concluído  
-**Data de Conclusão**: --
+- [X] Concluído  
+**Data de Conclusão**: 22/09/2025
 
 - Assistir até a aula 95 do curso [Maratona Java](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
 - Fazer [lista de exercícios](./exercicios/lista.md).
