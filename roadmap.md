@@ -45,7 +45,6 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 
 - Ler artigo: [Introdução ao Maven, aprenda como criar e gerenciar projetos Java](https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java).
 - Assistir vídeo: [Como criar um projeto Maven do zero no IntelliJ](https://www.youtube.com/watch?v=L07vZihvviA).
-- Assistir nível avançado do [Batismo de Java](https://batismodejava.dev/).
 - Assistir da aula 246 até a aula 285 do curso [Maratona Java](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW).
 
 ## 6ª Etapa
@@ -63,6 +62,7 @@ Esse vai ser a minha sequência de estudos, não tenho prazos para cumprir cada 
 - [ ] Concluído  
 **Data de Conclusão**: --
 
+- Assistir nível avançado do [Batismo de Java](https://batismodejava.dev/).
 - **SOLID**: [O que é SOLID](https://medium.com/desenvolvendo-com-paixao/o-que-é-solid-o-guia-completo-para-você-entender-os-5-princípios-da-poo-2b937b3fc530 ) | [Dominando os princípios do SOLID](https://www.youtube.com/watch?v=ZYCABdRwRNk)
 - **Pilares da POO**: [Os 4 pilares da POO](https://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264) | [Os Pilares da Orientação a Objetos](https://www.youtube.com/watch?v=s1oko_DmbZI)
 - **Arquitetura MVC**: [Abordando a arquitetura MVC](http://www.linhadecodigo.com.br/artigo/2367/abordando-a-arquitetura-mvc-e-design-patterns-observer-composite-strategy.aspx) | [Arquitetura MVC - Funcionamento real com explicação fácil](https://www.youtube.com/watch?v=W2PQwpGUZB8)
